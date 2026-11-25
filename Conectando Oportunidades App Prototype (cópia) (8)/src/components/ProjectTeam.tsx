@@ -1,7 +1,6 @@
 export const projectTeam = [
   {
     name: "Vitória Guirra Pereira",
-    role: "Criação e desenvolvimento da plataforma",
   },
   { name: "Ana Caroline Almeida Clemente" },
   { name: "Giovanna da Silva Saraiva" },
